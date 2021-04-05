@@ -9,7 +9,7 @@ Isac Arvidsson (isacarv@kth.se)
 Github: [isacarvid](https://github.com/isacarvid)
 
 ## Submission
-We have made a gitub action to send notifications via email to the contributers of a PR on the KTH/devops repository. The action triggers on a GitHub PR review, which helps students know if their proposals are approved or need changes.
+We have made a GitHub action to send notifications via email to the contributors of a PR on the KTH/devops repository. The action triggers a GitHub PR review, which helps students know if their proposals are approved or need changes. The notification is activated via a keyword in the PR readme (eg. #Notify).
 
 The action can be found here:https://github.com/marketplace/actions/pr-review-norification
 
